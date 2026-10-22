@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wEll10tt
 - 👀 I’m interested in Python, R, Sas, data analysis and modeling
+- Hobbyist game developer with C++, Unity, with Codex and Claude
 - 🌱 I’m currently learning Data Analytics
 
 
